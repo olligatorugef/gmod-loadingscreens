@@ -1,6 +1,3 @@
-Voici un `README.md` plus détaillé et bien structuré pour ton projet :
-
-```markdown
 # GMod Loading Screen Creator
 
 ![GMod Loading Screen Creator](https://example.com/image/logo.png) <!-- Remplace par l'URL de ton logo ou image de couverture -->
